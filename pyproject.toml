@@ -1,0 +1,11 @@
+[project]
+name = "spreadsheetcompressor"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "openpyxl>=3.1.5",
+    "pyexcel-ods>=0.6.0",
+    "requests>=2.32.3",
+]
