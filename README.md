@@ -1,0 +1,2 @@
+# spreadsheetcompressor
+Implementation of SpreadsheetCompressor
